@@ -1,13 +1,15 @@
 Package: com.p0wer0n.appsyncunified
 Version: 5.6-2
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: p0wer0n
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Architecture: iphoneos-arm
-Filename: .//debs/com.p0wer0n.appsyncunified_5.6-2_iphoneos-arm.deb
+Filename: ./debs//com.p0wer0n.appsyncunified_5.6-2_iphoneos-arm.deb
 Size: 17514
-MD5sum: a108304222e1e75648e87f79ecfff13c
+MD5sum: bcca7dae36b81965f2dc09243b2cdc95
+SHA1: bb1873076ffeb09e5513d2cc8e6e2618152e5b56
+SHA256: 0ad90ca028b821000918f5f6e13d9ce47275c1fc4b9fd030b349c3df20adb400
+Section: Tweaks
 Description: AppSync Unified for iOS 9 allows you to install unsigned applications on iOS 9. This version of AppSync Unified was originally made by AngelXWind and was pulled from he repo. I take no credit for her work, and only take credit for uploading this package. Please do not use this package for piracy. Only install/sideload apps that YOU OWN. Do NOT use this to steal other developer's hard work!
-name: AppSync Unified for iOS 9.0 - 9.0.2
-author: Linus Yang, Karen Tsai
+Author: Linus Yang, Karen Tsai
+Name: AppSync Unified for iOS 9.0 - 9.0.2
 
