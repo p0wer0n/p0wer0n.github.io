@@ -1,0 +1,8 @@
+Package: com.p0wer0n.getrektsoundboard
+Name: Get REKT Soundboard 1.696 BETA
+Depends: firmware (>= 7.0)
+Version: 1.696
+Architecture: iphoneos-arm
+Description: This is the beta version of Get REKT Soundboard, an MLG Soundboard coded by me. This version includes Text to Speech fixes, and dank John Cena sounds. May require AppSync to run.
+Author: Jared Ebenstein
+Section: Apps
