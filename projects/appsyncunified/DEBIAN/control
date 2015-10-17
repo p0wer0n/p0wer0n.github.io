@@ -1,5 +1,5 @@
 Package: com.p0wer0n.appsyncunified
-Name: AppSync Unified for iOS 9.0 - 9.0.2
+Name: AppSync Unified for iOS 9
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
 Version: 5.6-2
 Architecture: iphoneos-arm
