@@ -3,25 +3,52 @@ Version: 5.6-2
 Architecture: iphoneos-arm
 Maintainer: p0wer0n
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Filename: ./debs//com.p0wer0n.appsyncunified_5.6-2_iphoneos-arm.deb
-Size: 17756
-MD5sum: a81bf1f7eba55521ded2d4fb2f273e36
-SHA1: 22d889466c46b32dca66c9f71fb9524a23a48123
-SHA256: 7f9d2e402cf42eba3e77590d34b041b49178dd2947bddde205dc6d7f666a149b
+Filename: ./debs/com.p0wer0n.appsyncunified_5.6-2_iphoneos-arm.deb
+Size: 17840
+MD5sum: f28fdc1bda9a0fe615d6e290dc9057d1
+SHA1: fbf69e7b6de3026332c901aab8b3b632a0668ef4
+SHA256: d664abdc151c1428b230e2baebc26c2f8d8830b6323718c615dd56d8db482e42
 Section: Tweaks
 Description: AppSync Unified for iOS 9 allows you to install unsigned applications on iOS 9. This version of AppSync Unified was originally made by AngelXWind and was pulled from he repo. I take no credit for her work, and only take credit for uploading this package. Please do not use this package for piracy. Only install/sideload apps that YOU OWN. Do NOT use this to steal other developer's hard work!
 Author: Linus Yang, Karen Tsai
 Name: AppSync Unified for iOS 9
 
+Package: com.p0wer0n.b0mbastic
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Biggie Cheese
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.p0wer0n.b0mbastic_1.0.1_iphoneos-arm.deb
+Size: 11710
+MD5sum: 4219aaf5ce73f7cb74ea919fb619bb5a
+SHA1: 2cfe0eb19c5f73ceae930c62bfe35e757daae289
+SHA256: f387c1c80fe24d57e267609fcaba1bc7faf6b0c8a5bff3ac35799d0876b5e024
+Section: Tweaks
+Description: An iMessage troll's best friend!
+ Features:
+ (+) Force join a group chat
+ (+) Force leave a group chat
+ (+) Flood a contact or a group chat with iMessages (not SMS)
+ (+) Tons of swag
+ (+) Piss off ***** **** (what a fag)
+ (-) Bitches won't love you
+ (-) Your friends won't love you
+ (-) You will die alone
+ (-) Seriously don't install this bro
+ (-) iOS 9 only (for now)
+Author: Biggie Cheese
+Name: b0mbastic
+
 Package: com.p0wer0n.getrektsoundboard
 Version: 1.696
 Architecture: iphoneos-arm
 Depends: firmware (>= 7.0)
-Filename: ./debs//com.p0wer0n.getrektsoundboard_1.696_iphoneos-arm.deb
-Size: 100425158
-MD5sum: 1223659cdee33f7ba33b79d926eac9a3
-SHA1: 8337dbd6a2b53a6887a547e1e8c7d2e604d0c529
-SHA256: 06658ed1734ad29a9b3427c349b7398b9fb01609415dc8d28503915856c13e1e
+Filename: ./debs/com.p0wer0n.getrektsoundboard_1.696_iphoneos-arm.deb
+Size: 1404
+MD5sum: a97c992acec51c25a7746812cbf1098c
+SHA1: 0394c990fac08556ec8112e6ea40bff8dce7bb35
+SHA256: ba2fd499e9fa4013a286d352de4dd7d2cfcb6df163b3920bbae6949781bf6bd4
 Section: Apps
 Description: This is the beta version of Get REKT Soundboard, an MLG Soundboard coded by me. This version includes Text to Speech fixes, and dank John Cena sounds. May require AppSync to run.
 Author: Jared Ebenstein
